@@ -1,3 +1,4 @@
 List all attributions here, this include "self-attributions":
-
-???
+Used shader wrote in Workbook 10, used drone wrote in workbook 7,
+used guitar obj file from https://www.cgtrader.com/free-3d-models/electronics/other/electricguitar,
+used cubemap for background from https://polyhaven.com/a/green_point_park
