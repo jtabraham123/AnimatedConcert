@@ -1,6 +1,10 @@
+![Demo](https://github.com/jtabraham123/AnimatedConcert/blob/master/AnimatedConcert.gif)
+
 # Instructions
 
 To see my graphics town Animated Concert project, run a local webserver, opening up the file `./for_students/final-grtown.html`
+
+Note: There is a known bug if you leave the page (clinking on a different tab/window), some objects will start to move wayward towards grandma's house.
 
 # CS559 Workbook , Spring 2021
 
