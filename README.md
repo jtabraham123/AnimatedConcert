@@ -1,3 +1,7 @@
+# Instructions
+
+To see my graphics town Animated Concert project, run a local webserver, opening up the file for_students/final-grtown.html
+
 # CS559 Workbook , Spring 2021
 
 This set of web pages forms a "workbook" assignment for 
