@@ -5,7 +5,7 @@
 To see my graphics town Animated Concert project, run a local webserver, opening up the file `./for_students/final-grtown.html`
 
 
-# CS559 Workbook , Spring 2021
+# CS559 Workbook , Spring 2022
 
 This set of web pages forms a "workbook" assignment for 
 CS559, Computer Graphics at the University of Wisconsin for Spring 2021.
